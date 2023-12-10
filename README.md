@@ -33,12 +33,12 @@ The project follows a typical Node.js project structure with the following main 
 - npm install
 
 ## Configure Databases and RabbitMQ:
-Set up a MySQL database and update the config/dbConfig.js file with your credentials.
-Set up a MongoDB instance and update the config/dbConfig.js file with the connection string.
-Install and run RabbitMQ and ensure it's accessible.
+- Set up a MySQL database and update the config/dbConfig.js file with your credentials.
+- Set up a MongoDB instance and update the config/dbConfig.js file with the connection string.
+- Install and run RabbitMQ and ensure it's accessible.
 
 ## Start the Application:
-npm start
+- npm start
 
 ##  API Endpoints:
 - User Registration: POST /auth/register
