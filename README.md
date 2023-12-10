@@ -41,9 +41,9 @@ Install and run RabbitMQ and ensure it's accessible.
 npm start
 
 ##  API Endpoints:
-User Registration: POST /auth/register
-User Login: POST /auth/login
-Create Game: POST /game/create
-Retrieve Game Data: GET /game/:userId
-Update Game Data: PUT /game/:userId/:gameId
-Delete Game: DELETE /game/:userId/:gameId
+- User Registration: POST /auth/register
+- User Login: POST /auth/login
+- Create Game: POST /game/create
+- Retrieve Game Data: GET /game/:userId
+- Update Game Data: PUT /game/:userId/:gameId
+- Delete Game: DELETE /game/:userId/:gameId
